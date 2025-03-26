@@ -1,0 +1,18 @@
+title: DragonKeybladeuwu (KH2PCPATCH)
+originalAuthor: Unknown
+description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+game: kh2
+dependencies: 
+assets:
+- name: obj\P_EX100.mset
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\P_EX100.mset
+- name: obj\W_EX010.mset
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj\W_EX010.mset
