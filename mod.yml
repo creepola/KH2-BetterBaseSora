@@ -1,6 +1,6 @@
-title: DragonKeybladeuwu (KH2PCPATCH)
-originalAuthor: Unknown
-description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+title: Better Base Sora
+originalAuthor: Creepola
+description: Makes Base Sora better in combat. Has Animation cancelling, etc
 game: kh2
 dependencies: 
 assets:
@@ -16,3 +16,4 @@ assets:
   package: kh2_sixth
   source:
   - name: obj\W_EX010.mset
+
